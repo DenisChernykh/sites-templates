@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Free Remix",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "box": {
+      "height": 38,
+      "width": 137.734375,
+      "x": 20,
+      "y": 786
+    },
+    "nodes": [
+      {
+        "key": "Free Remix-0",
+        "parent": null,
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mindify / Free Remix",
+          "x": 20,
+          "y": 786,
+          "width": 137.734375,
+          "height": 38,
+          "metadata": {
+            "type": "mindify-source-section",
+            "section": "Free Remix"
+          },
+          "layout": "none",
+          "clip": false,
+          "cornerRadius": [
+            12,
+            12,
+            12,
+            12
+          ],
+          "fill": "#4980cc"
+        }
+      },
+      {
+        "key": "Free Remix-1",
+        "parent": "Free Remix-0",
+        "z": 1,
+        "props": {
+          "type": "frame",
+          "name": "Free Remix / Icon",
+          "x": 8,
+          "y": 8,
+          "width": 22,
+          "height": 22,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Free Remix-1",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false,
+          "cornerRadius": [
+            16,
+            16,
+            16,
+            16
+          ],
+          "fill": "#ffffff"
+        }
+      },
+      {
+        "key": "Free Remix-2",
+        "parent": "Free Remix-1",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Free Remix / svg",
+          "x": 6,
+          "y": 6,
+          "width": 10,
+          "height": 10,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Free Remix-2",
+            "tag": "svg"
+          },
+          "layout": "none",
+          "clip": true
+        },
+        "paths": [
+          {
+            "type": "path",
+            "name": "svg / исходный контур 1",
+            "x": 0,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "geometry": "M 13.6 0 L 2.4 0 C 1.075 0 0 1.075 0 2.4 L 0 13.6 C 0 14.925 1.075 16 2.4 16 L 13.6 16 C 14.925 16 16 14.925 16 13.6 L 16 2.4 C 16 1.075 14.925 0 13.6 0",
+            "viewBox": [
+              -6,
+              -3,
+              24,
+              24
+            ],
+            "fill": "#4980cc57"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 2",
+            "x": 0,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "geometry": "M 17 19 L 5.4 19 C 2.42 19 0 16.58 0 13.6 L 0 2 M 5.4 0 L 16.6 0 C 17.925 0 19 1.075 19 2.4 L 19 13.6 C 19 14.925 17.925 16 16.6 16 L 5.4 16 C 4.075 16 3 14.925 3 13.6 L 3 2.4 C 3 1.075 4.075 0 5.4 0",
+            "viewBox": [
+              -3,
+              -3,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 0.8333333333333334,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          }
+        ]
+      },
+      {
+        "key": "Free Remix-3",
+        "parent": "Free Remix-0",
+        "z": 1,
+        "props": {
+          "type": "frame",
+          "name": "Free Remix / div",
+          "x": 42,
+          "y": 9.3984375,
+          "width": 77.734375,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Free Remix-3",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Free Remix-4",
+        "parent": "Free Remix-3",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Free Remix / Free Remix",
+          "x": 0,
+          "y": 0,
+          "width": 77.734375,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Free Remix-4",
+            "tag": "p"
+          },
+          "content": "Free Remix",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 16,
+          "fontWeight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#ffffff",
+          "textAlign": "left",
+          "href": "https://framer.link/yzjVADp"
+        }
+      }
+    ]
+  }
+]

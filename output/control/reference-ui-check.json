@@ -1,0 +1,41 @@
+{
+  "buttonHover": {
+    "background": "rgb(255, 255, 255)",
+    "color": "rgb(73, 128, 204)"
+  },
+  "linkHover": "rgb(73, 128, 204)",
+  "desktop": {
+    "fonts": "\"Apfel Grotezk\"",
+    "height": 1000,
+    "overflow": false,
+    "pageHeight": 4729,
+    "photos": true,
+    "width": 1440
+  },
+  "tablet": {
+    "height": 1024,
+    "overflow": false,
+    "pageHeight": 5980,
+    "width": 768
+  },
+  "mobile": {
+    "height": 844,
+    "overflow": false,
+    "pageHeight": 6098,
+    "width": 390
+  },
+  "errors": [],
+  "drag": {
+    "before": "matrix(1, 0, 0, 1, -320.003, 0)",
+    "left": "matrix(1, 0, 0, 1, -22.7452, 0)",
+    "right": "matrix(1, 0, 0, 1, -234.671, 0)",
+    "input": "mouse drag at 390px viewport"
+  },
+  "interactions": [
+    "menu open-close-open",
+    "menu link closes and navigates to #services",
+    "button hover and leave",
+    "navigation hover",
+    "ticker drag both directions"
+  ]
+}

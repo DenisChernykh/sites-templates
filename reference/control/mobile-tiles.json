@@ -1,0 +1,128 @@
+[
+  {
+    "section": "Header",
+    "from": 0,
+    "to": 54,
+    "file": "output/control/source-mobile-header-0.png",
+    "scrollY": 0,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Hero",
+    "from": 0,
+    "to": 740,
+    "file": "output/control/source-mobile-hero-0.png",
+    "scrollY": 0,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Hero",
+    "from": 740,
+    "to": 888.6015625,
+    "file": "output/control/source-mobile-hero-1.png",
+    "scrollY": 660,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Benefits",
+    "from": 888.6015625,
+    "to": 1032.6015625,
+    "file": "output/control/source-mobile-benefits-0.png",
+    "scrollY": 808.5,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "About",
+    "from": 1032.6015625,
+    "to": 1772.6015625,
+    "file": "output/control/source-mobile-about-0.png",
+    "scrollY": 952.5,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "About",
+    "from": 1772.6015625,
+    "to": 1911.6953125,
+    "file": "output/control/source-mobile-about-1.png",
+    "scrollY": 1693,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Social Proof",
+    "from": 1911.6953125,
+    "to": 2396.6953125,
+    "file": "output/control/source-mobile-social-proof-0.png",
+    "scrollY": 1831.5,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Services",
+    "from": 2396.6953125,
+    "to": 3136.6953125,
+    "file": "output/control/source-mobile-services-0.png",
+    "scrollY": 2316.5,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Services",
+    "from": 3136.6953125,
+    "to": 3816.703125,
+    "file": "output/control/source-mobile-services-1.png",
+    "scrollY": 3057,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "How It Works",
+    "from": 3816.703125,
+    "to": 4556.703125,
+    "file": "output/control/source-mobile-how-it-works-0.png",
+    "scrollY": 3736.5,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "How It Works",
+    "from": 4556.703125,
+    "to": 4881.4140625,
+    "file": "output/control/source-mobile-how-it-works-1.png",
+    "scrollY": 4477,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Testimonials",
+    "from": 4881.4140625,
+    "to": 5304.9140625,
+    "file": "output/control/source-mobile-testimonials-0.png",
+    "scrollY": 4801,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "CTA",
+    "from": 5304.9140625,
+    "to": 5868.9140625,
+    "file": "output/control/source-mobile-cta-0.png",
+    "scrollY": 5225,
+    "width": 390,
+    "height": 844
+  },
+  {
+    "section": "Footer",
+    "from": 5868.9140625,
+    "to": 6097.109375,
+    "file": "output/control/source-mobile-footer-0.png",
+    "scrollY": 5253,
+    "width": 390,
+    "height": 844
+  }
+]

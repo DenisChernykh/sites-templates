@@ -1,0 +1,560 @@
+[
+  {
+    "id": "u1imhi",
+    "url": "/",
+    "width": 1440,
+    "problems": [],
+    "expected": [
+      {
+        "id": "lgmOE",
+        "name": "Отзыв / образец 4",
+        "parent": "Лента отзывов · TICKER-001 · статический кадр",
+        "problem": "partially clipped"
+      }
+    ]
+  },
+  {
+    "id": "FJIqV",
+    "url": "/",
+    "width": 768,
+    "problems": [],
+    "expected": [
+      {
+        "id": "ualgD",
+        "name": "Отзыв / образец 2",
+        "parent": "Лента отзывов · TICKER-001 · статический кадр",
+        "problem": "partially clipped"
+      },
+      {
+        "id": "fOYlT",
+        "name": "Отзыв / образец 3",
+        "parent": "Лента отзывов · TICKER-001 · статический кадр",
+        "problem": "fully clipped"
+      },
+      {
+        "id": "rsLb6",
+        "name": "Отзыв / образец 4",
+        "parent": "Лента отзывов · TICKER-001 · статический кадр",
+        "problem": "fully clipped"
+      }
+    ]
+  },
+  {
+    "id": "MusUW",
+    "url": "/",
+    "width": 390,
+    "problems": [],
+    "expected": [
+      {
+        "id": "weVEn",
+        "name": "Отзыв / образец 2",
+        "parent": "Лента отзывов · TICKER-001 · статический кадр",
+        "problem": "partially clipped"
+      }
+    ]
+  },
+  {
+    "id": "n36H5",
+    "url": "/about",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "itIZL",
+    "url": "/about",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "CKOTF",
+    "url": "/about",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "w0Xt9",
+    "url": "/topics",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "fFVEi",
+    "url": "/topics",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "E9Qkd",
+    "url": "/topics",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "cL6b7",
+    "url": "/topics/find-yourself",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "WAuED",
+    "url": "/topics/find-yourself",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "nZkdc",
+    "url": "/topics/find-yourself",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "g0U3s",
+    "url": "/topics/find-calling",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "Wy6nX",
+    "url": "/topics/find-calling",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "dnAi9",
+    "url": "/topics/find-calling",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "fhj5m",
+    "url": "/topics/fear-of-judgment",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "K3dAhd",
+    "url": "/topics/fear-of-judgment",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "Fo9rM",
+    "url": "/topics/fear-of-judgment",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "oCXXr",
+    "url": "/topics/inner-stability",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "JXmVe",
+    "url": "/topics/inner-stability",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "myQ8u",
+    "url": "/topics/inner-stability",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "dS5C9",
+    "url": "/topics/self-knowledge",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "uAEeJ",
+    "url": "/topics/self-knowledge",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "rsmag",
+    "url": "/topics/self-knowledge",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "h8K2M",
+    "url": "/topics/development",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "xeg7I",
+    "url": "/topics/development",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "VIqKr",
+    "url": "/topics/development",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "clD1v",
+    "url": "/services",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "tkCbx",
+    "url": "/services",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "JtVyq",
+    "url": "/services",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "i37GS",
+    "url": "/services/coaching",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "RVveo",
+    "url": "/services/coaching",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "oeQdd",
+    "url": "/services/coaching",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "bnlzg",
+    "url": "/services/packages",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "pN5dv",
+    "url": "/services/packages",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "hArSG",
+    "url": "/services/packages",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "KMmlh",
+    "url": "/services/art-therapy",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "vOxh8",
+    "url": "/services/art-therapy",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "GHAEy",
+    "url": "/services/art-therapy",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "VVUBG",
+    "url": "/services/group",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "XQe6R",
+    "url": "/services/group",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "ulGkv",
+    "url": "/services/group",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "FL09u",
+    "url": "/services/diagnostic",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "h4Y7b",
+    "url": "/services/diagnostic",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "c6J0z2",
+    "url": "/services/diagnostic",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "O2TjP",
+    "url": "/process",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "pheRr",
+    "url": "/process",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "Sv2Yj",
+    "url": "/process",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "H3Rdc",
+    "url": "/reviews",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "HVZGM",
+    "url": "/reviews",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "SBMaf",
+    "url": "/reviews",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "vbygs",
+    "url": "/blog",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "C3VMnq",
+    "url": "/blog",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "neOeY",
+    "url": "/blog",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "M0h0R",
+    "url": "/blog/find-calling",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "C2tGs",
+    "url": "/blog/find-calling",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "j1ET5",
+    "url": "/blog/find-calling",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "z6IGE",
+    "url": "/blog/fear-of-judgment",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "LKnYs",
+    "url": "/blog/fear-of-judgment",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "Z5tM3S",
+    "url": "/blog/fear-of-judgment",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "dp3B2",
+    "url": "/blog/inner-stability",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "CTFxf",
+    "url": "/blog/inner-stability",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "Zb1nW",
+    "url": "/blog/inner-stability",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "tq0VW",
+    "url": "/faq",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "E0Rhra",
+    "url": "/faq",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "rcdP3",
+    "url": "/faq",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "vSn6K",
+    "url": "/contacts",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "zfz3i",
+    "url": "/contacts",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "Q5WH4s",
+    "url": "/contacts",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "hJENG",
+    "url": "/404",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "eu7Qb",
+    "url": "/404",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "LNEue",
+    "url": "/404",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "h6E346",
+    "url": "/privacy",
+    "width": 1440,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "J3dth",
+    "url": "/privacy",
+    "width": 768,
+    "problems": [],
+    "expected": []
+  },
+  {
+    "id": "L3AN8",
+    "url": "/privacy",
+    "width": 390,
+    "problems": [],
+    "expected": []
+  }
+]

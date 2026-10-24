@@ -1,0 +1,73 @@
+{
+  "source": "https://mindify.framer.website/",
+  "measuredOn": "2026-10-18",
+  "note": "Boxes are compared; glyph shapes, photos and translated content are intentionally different.",
+  "desktop": {
+    "reference": {
+      "h1": {
+        "x": 160,
+        "y": 231.4921875,
+        "width": 488,
+        "height": 158.40625
+      },
+      "image": {
+        "x": 664,
+        "y": 128,
+        "width": 616,
+        "height": 450
+      }
+    },
+    "pen": {
+      "h1": {
+        "id": "fLOiu",
+        "name": "H1 · ANIM-002",
+        "x": 160,
+        "y": 231.5,
+        "width": 488,
+        "height": 158
+      },
+      "image": {
+        "id": "r83Uj",
+        "name": "Атмосферная фотография · не портрет Юли",
+        "x": 664,
+        "y": 128,
+        "width": 616,
+        "height": 450
+      }
+    }
+  },
+  "mobile": {
+    "reference": {
+      "h1": {
+        "x": 16,
+        "y": 151.3984375,
+        "width": 358,
+        "height": 101.203125
+      },
+      "image": {
+        "x": 16,
+        "y": 474.6015625,
+        "width": 358,
+        "height": 350
+      }
+    },
+    "pen": {
+      "h1": {
+        "id": "Fb9Kd",
+        "name": "H1 · ANIM-002",
+        "x": 16,
+        "y": 151,
+        "width": 358,
+        "height": 102
+      },
+      "image": {
+        "id": "MDyy5",
+        "name": "Атмосферная фотография · не портрет Юли",
+        "x": 16,
+        "y": 475,
+        "width": 358,
+        "height": 350
+      }
+    }
+  }
+}

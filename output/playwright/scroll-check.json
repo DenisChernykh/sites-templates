@@ -1,0 +1,33 @@
+{
+  "tags": {
+    "p": 0.5080645161290323,
+    "values": [
+      [
+        -0.491935,
+        -3.93548
+      ],
+      [
+        -2.95161,
+        -2.95161
+      ],
+      [
+        -0.983871,
+        -4.91935
+      ]
+    ]
+  },
+  "reverseTagY": -8,
+  "background": {
+    "p": 0.5650042028579434,
+    "scale": 0.913001,
+    "opacity": 0.1426
+  },
+  "checks": [
+    "in-view initial hidden / revealed / no replay",
+    "scroll springs forward / reverse",
+    "slider keyboard 0 / 100",
+    "document progress CTA scale / opacity",
+    "menu link closes",
+    "reduced-motion load / menu"
+  ]
+}

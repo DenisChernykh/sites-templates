@@ -1,0 +1,269 @@
+{
+  "source": "https://mindify.framer.website/",
+  "referenceBoard": "R1hoH",
+  "screens": [
+    {
+      "id": "sq8m0",
+      "width": 1440,
+      "height": 4728.984375
+    },
+    {
+      "id": "LRuxO",
+      "width": 768,
+      "height": 5979.671875
+    },
+    {
+      "id": "n8h47",
+      "width": 390,
+      "height": 6097.109375
+    }
+  ],
+  "motionBoard": "Hfdbm",
+  "motion": [
+    {
+      "id": "IIVGf",
+      "effect": "ANIM-001",
+      "step": 0
+    },
+    {
+      "id": "Ck9uu",
+      "effect": "ANIM-001",
+      "step": 1
+    },
+    {
+      "id": "grps3",
+      "effect": "ANIM-001",
+      "step": 2
+    },
+    {
+      "id": "e7zoKI",
+      "effect": "ANIM-002",
+      "step": 0
+    },
+    {
+      "id": "Niuib",
+      "effect": "ANIM-002",
+      "step": 1
+    },
+    {
+      "id": "d0lOgV",
+      "effect": "ANIM-002",
+      "step": 2
+    },
+    {
+      "id": "bJ6sJ",
+      "effect": "ANIM-003",
+      "step": 0
+    },
+    {
+      "id": "mA1E7",
+      "effect": "ANIM-003",
+      "step": 1
+    },
+    {
+      "id": "KxLui",
+      "effect": "ANIM-003",
+      "step": 2
+    },
+    {
+      "id": "CmJf0",
+      "effect": "ANIM-004",
+      "step": 0
+    },
+    {
+      "id": "orN8w",
+      "effect": "ANIM-004",
+      "step": 1
+    },
+    {
+      "id": "pKKyL",
+      "effect": "ANIM-004",
+      "step": 2
+    },
+    {
+      "id": "A1JEf",
+      "effect": "ANIM-005",
+      "step": 0
+    },
+    {
+      "id": "KUhx5",
+      "effect": "ANIM-005",
+      "step": 1
+    },
+    {
+      "id": "C3kAni",
+      "effect": "ANIM-005",
+      "step": 2
+    },
+    {
+      "id": "Zohql",
+      "effect": "ANIM-006",
+      "step": 0
+    },
+    {
+      "id": "V4K3pf",
+      "effect": "ANIM-006",
+      "step": 1
+    },
+    {
+      "id": "Q6tmUo",
+      "effect": "ANIM-006",
+      "step": 2
+    },
+    {
+      "id": "uQcRQ",
+      "effect": "SCROLL-001",
+      "step": 0
+    },
+    {
+      "id": "B2KsMB",
+      "effect": "SCROLL-001",
+      "step": 1
+    },
+    {
+      "id": "xP286",
+      "effect": "SCROLL-001",
+      "step": 2
+    },
+    {
+      "id": "Wk7VC",
+      "effect": "SCROLL-002",
+      "step": 0
+    },
+    {
+      "id": "BktWJ",
+      "effect": "SCROLL-002",
+      "step": 1
+    },
+    {
+      "id": "YTZu4",
+      "effect": "SCROLL-002",
+      "step": 2
+    },
+    {
+      "id": "Jr7wU",
+      "effect": "SCROLL-003",
+      "step": 0
+    },
+    {
+      "id": "gKSjy",
+      "effect": "SCROLL-003",
+      "step": 1
+    },
+    {
+      "id": "g4DGL",
+      "effect": "SCROLL-003",
+      "step": 2
+    },
+    {
+      "id": "i3kT0",
+      "effect": "SCROLL-004",
+      "step": 0
+    },
+    {
+      "id": "wnpoI",
+      "effect": "SCROLL-004",
+      "step": 1
+    },
+    {
+      "id": "RTrw5",
+      "effect": "SCROLL-004",
+      "step": 2
+    },
+    {
+      "id": "E3zBE",
+      "effect": "HOVER-001",
+      "step": 0
+    },
+    {
+      "id": "p1lVD",
+      "effect": "HOVER-001",
+      "step": 1
+    },
+    {
+      "id": "HPknq",
+      "effect": "HOVER-001",
+      "step": 2
+    },
+    {
+      "id": "zzbtS",
+      "effect": "HOVER-002",
+      "step": 0
+    },
+    {
+      "id": "Jn0H1",
+      "effect": "HOVER-002",
+      "step": 1
+    },
+    {
+      "id": "uG7BX",
+      "effect": "HOVER-002",
+      "step": 2
+    },
+    {
+      "id": "DYMrt",
+      "effect": "HOVER-003",
+      "step": 0
+    },
+    {
+      "id": "rkllO",
+      "effect": "HOVER-003",
+      "step": 1
+    },
+    {
+      "id": "hA4qB",
+      "effect": "HOVER-003",
+      "step": 2
+    },
+    {
+      "id": "P31nm",
+      "effect": "MENU-001",
+      "step": 0
+    },
+    {
+      "id": "gjUiU",
+      "effect": "MENU-001",
+      "step": 1
+    },
+    {
+      "id": "CY6ki",
+      "effect": "MENU-001",
+      "step": 2
+    },
+    {
+      "id": "cgYeg",
+      "effect": "MENU-002",
+      "step": 0
+    },
+    {
+      "id": "VyOB8",
+      "effect": "MENU-002",
+      "step": 1
+    },
+    {
+      "id": "V6Ub7",
+      "effect": "MENU-002",
+      "step": 2
+    },
+    {
+      "id": "zmi48",
+      "effect": "TICKER-001",
+      "step": 0
+    },
+    {
+      "id": "OmoPI",
+      "effect": "TICKER-001",
+      "step": 1
+    },
+    {
+      "id": "LRIIO",
+      "effect": "TICKER-001",
+      "step": 2
+    }
+  ],
+  "extras": {
+    "Mobile Menu": "jxe8E",
+    "Free Remix": "jBour",
+    "Framer Badge": "mPiuc"
+  }
+}

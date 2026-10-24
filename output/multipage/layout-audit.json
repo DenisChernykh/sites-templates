@@ -1,0 +1,439 @@
+{
+  "pages": [
+    {
+      "id": "Br1Oz",
+      "name": "Home · Desktop 1440 · /",
+      "bounds": {
+        "x": 5500,
+        "y": 13200,
+        "width": 1440,
+        "height": 4728.984375
+      },
+      "h1": [
+        "Find peace.\nFind yourself."
+      ],
+      "textCount": 72,
+      "geometryFlags": [
+        {
+          "id": "UF6CS",
+          "name": "About / Signature",
+          "flag": "partially clipped",
+          "explanation": "Unchanged source geometry; signature and hand-drawn process arrows cross their source frames."
+        },
+        {
+          "id": "sX737",
+          "name": "How It Works / svg",
+          "flag": "partially clipped",
+          "explanation": "Unchanged source geometry; signature and hand-drawn process arrows cross their source frames."
+        },
+        {
+          "id": "bzvOc",
+          "name": "How It Works / svg",
+          "flag": "partially clipped",
+          "explanation": "Unchanged source geometry; signature and hand-drawn process arrows cross their source frames."
+        }
+      ]
+    },
+    {
+      "id": "CWS9M",
+      "name": "Home · Mobile 390 · /",
+      "bounds": {
+        "x": 7040,
+        "y": 13200,
+        "width": 390,
+        "height": 6097.109375
+      },
+      "h1": [
+        "Find peace.\nFind yourself."
+      ],
+      "textCount": 63,
+      "geometryFlags": [
+        {
+          "id": "UWKWg",
+          "name": "About / Signature",
+          "flag": "partially clipped",
+          "explanation": "Unchanged source geometry; signature and hand-drawn process arrows cross their source frames."
+        },
+        {
+          "id": "N595A",
+          "name": "How It Works / svg",
+          "flag": "partially clipped",
+          "explanation": "Unchanged source geometry; signature and hand-drawn process arrows cross their source frames."
+        },
+        {
+          "id": "A7huUo",
+          "name": "How It Works / svg",
+          "flag": "partially clipped",
+          "explanation": "Unchanged source geometry; signature and hand-drawn process arrows cross their source frames."
+        }
+      ]
+    },
+    {
+      "id": "iMVX6",
+      "name": "About Julia · Desktop 1440 · /about/",
+      "bounds": {
+        "x": 7760,
+        "y": 13200,
+        "width": 1440,
+        "height": 3022.2000000000007
+      },
+      "h1": [
+        "A space to talk.\nA person to meet."
+      ],
+      "textCount": 41,
+      "geometryFlags": []
+    },
+    {
+      "id": "Ehbks",
+      "name": "About Julia · Mobile 390 · /about/",
+      "bounds": {
+        "x": 9300,
+        "y": 13200,
+        "width": 390,
+        "height": 3593.7999999999993
+      },
+      "h1": [
+        "A space to talk.\nA person to meet."
+      ],
+      "textCount": 36,
+      "geometryFlags": []
+    },
+    {
+      "id": "N1THq2",
+      "name": "Services · Desktop 1440 · /services/",
+      "bounds": {
+        "x": 10020,
+        "y": 13200,
+        "width": 1440,
+        "height": 2934.9890625000007
+      },
+      "h1": [
+        "Find the right\nspace for you."
+      ],
+      "textCount": 43,
+      "geometryFlags": []
+    },
+    {
+      "id": "SxiiA",
+      "name": "Services · Mobile 390 · /services/",
+      "bounds": {
+        "x": 11560,
+        "y": 13200,
+        "width": 390,
+        "height": 3762.4078125000015
+      },
+      "h1": [
+        "Find the right\nspace for you."
+      ],
+      "textCount": 38,
+      "geometryFlags": []
+    },
+    {
+      "id": "DUGmn",
+      "name": "Couples Therapy · Desktop 1440 · /services/couples-therapy/",
+      "bounds": {
+        "x": 12280,
+        "y": 13200,
+        "width": 1440,
+        "height": 3391.2000000000007
+      },
+      "h1": [
+        "Couples\nTherapy"
+      ],
+      "textCount": 52,
+      "geometryFlags": []
+    },
+    {
+      "id": "b1yh1v",
+      "name": "Couples Therapy · Mobile 390 · /services/couples-therapy/",
+      "bounds": {
+        "x": 13820,
+        "y": 13200,
+        "width": 390,
+        "height": 4348.799999999999
+      },
+      "h1": [
+        "Couples\nTherapy"
+      ],
+      "textCount": 47,
+      "geometryFlags": []
+    },
+    {
+      "id": "gqWBS",
+      "name": "Individual Therapy · Desktop 1440 · /services/individual-therapy/",
+      "bounds": {
+        "x": 14540,
+        "y": 13200,
+        "width": 1440,
+        "height": 3630.5999999999985
+      },
+      "h1": [
+        "Individual\nTherapy"
+      ],
+      "textCount": 49,
+      "geometryFlags": [
+        {
+          "id": "gH4TO",
+          "name": "Footer / Source",
+          "flag": "partially clipped",
+          "explanation": "Subpixel floating point boundary; no visible clipping."
+        }
+      ]
+    },
+    {
+      "id": "SHk58",
+      "name": "Individual Therapy · Mobile 390 · /services/individual-therapy/",
+      "bounds": {
+        "x": 16080,
+        "y": 13200,
+        "width": 390,
+        "height": 4248.200000000001
+      },
+      "h1": [
+        "Individual\nTherapy"
+      ],
+      "textCount": 44,
+      "geometryFlags": []
+    },
+    {
+      "id": "snFXE",
+      "name": "Grief Counselling · Desktop 1440 · /services/grief-counselling/",
+      "bounds": {
+        "x": 16800,
+        "y": 13200,
+        "width": 1440,
+        "height": 3694.5999999999985
+      },
+      "h1": [
+        "Grief\nCounselling"
+      ],
+      "textCount": 50,
+      "geometryFlags": [
+        {
+          "id": "CfqZP",
+          "name": "Footer / Source",
+          "flag": "partially clipped",
+          "explanation": "Subpixel floating point boundary; no visible clipping."
+        }
+      ]
+    },
+    {
+      "id": "TF1Wi",
+      "name": "Grief Counselling · Mobile 390 · /services/grief-counselling/",
+      "bounds": {
+        "x": 18340,
+        "y": 13200,
+        "width": 390,
+        "height": 4294.200000000001
+      },
+      "h1": [
+        "Grief\nCounselling"
+      ],
+      "textCount": 45,
+      "geometryFlags": []
+    },
+    {
+      "id": "MXbQX",
+      "name": "Work-Life Balance Coaching · Desktop 1440 · /services/work-life-balance-coaching/",
+      "bounds": {
+        "x": 19060,
+        "y": 13200,
+        "width": 1440,
+        "height": 3720
+      },
+      "h1": [
+        "Work-Life\nBalance Coaching"
+      ],
+      "textCount": 50,
+      "geometryFlags": []
+    },
+    {
+      "id": "D7TdM",
+      "name": "Work-Life Balance Coaching · Mobile 390 · /services/work-life-balance-coaching/",
+      "bounds": {
+        "x": 20600,
+        "y": 13200,
+        "width": 390,
+        "height": 4376.200000000001
+      },
+      "h1": [
+        "Work-Life\nBalance Coaching"
+      ],
+      "textCount": 45,
+      "geometryFlags": []
+    },
+    {
+      "id": "X7zAal",
+      "name": "Journal · Desktop 1440 · /journal/",
+      "bounds": {
+        "x": 21320,
+        "y": 13200,
+        "width": 1440,
+        "height": 2488.7999999999993
+      },
+      "h1": [
+        "A little room\nto understand."
+      ],
+      "textCount": 34,
+      "geometryFlags": []
+    },
+    {
+      "id": "e7BOes",
+      "name": "Journal · Mobile 390 · /journal/",
+      "bounds": {
+        "x": 22860,
+        "y": 13200,
+        "width": 390,
+        "height": 2863.3999999999996
+      },
+      "h1": [
+        "A little room\nto understand."
+      ],
+      "textCount": 29,
+      "geometryFlags": [
+        {
+          "id": "x4Wfl",
+          "name": "Footer / Source",
+          "flag": "partially clipped",
+          "explanation": "Subpixel floating point boundary; no visible clipping."
+        }
+      ]
+    },
+    {
+      "id": "CIqYX",
+      "name": "Before your first online session · Desktop 1440 · /journal/before-your-first-online-session/",
+      "bounds": {
+        "x": 23580,
+        "y": 13200,
+        "width": 1440,
+        "height": 3761.5999999999985
+      },
+      "h1": [
+        "Before your first\nonline session"
+      ],
+      "textCount": 46,
+      "geometryFlags": [
+        {
+          "id": "O4Iaak",
+          "name": "Article image / Top-aligned source photograph",
+          "flag": "partially clipped",
+          "explanation": "Intentional photograph crop inside the article image frame."
+        },
+        {
+          "id": "uFqFD",
+          "name": "Footer / Source",
+          "flag": "partially clipped",
+          "explanation": "Subpixel floating point boundary; no visible clipping."
+        }
+      ]
+    },
+    {
+      "id": "b9lNN6",
+      "name": "Before your first online session · Mobile 390 · /journal/before-your-first-online-session/",
+      "bounds": {
+        "x": 25120,
+        "y": 13200,
+        "width": 390,
+        "height": 3866.4000000000015
+      },
+      "h1": [
+        "Before your first\nonline session"
+      ],
+      "textCount": 41,
+      "geometryFlags": []
+    },
+    {
+      "id": "WcFgi",
+      "name": "Contact · Desktop 1440 · /contact/",
+      "bounds": {
+        "x": 25840,
+        "y": 13200,
+        "width": 1440,
+        "height": 2175.2000000000007
+      },
+      "h1": [
+        "Let’s start with\nyour question."
+      ],
+      "textCount": 50,
+      "geometryFlags": []
+    },
+    {
+      "id": "ozsZk",
+      "name": "Contact · Mobile 390 · /contact/",
+      "bounds": {
+        "x": 27380,
+        "y": 13200,
+        "width": 390,
+        "height": 3131.3999999999996
+      },
+      "h1": [
+        "Let’s start with\nyour question."
+      ],
+      "textCount": 45,
+      "geometryFlags": [
+        {
+          "id": "XNnxM",
+          "name": "Footer / Source",
+          "flag": "partially clipped",
+          "explanation": "Subpixel floating point boundary; no visible clipping."
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "source": "sq8m0",
+      "page": "Br1Oz",
+      "sourceLayers": 382,
+      "copiedLayers": 382,
+      "differences": [
+        {
+          "key": "Header-16",
+          "source": {
+            "type": "text",
+            "x": 0,
+            "y": 0,
+            "width": 85.03125,
+            "height": 19.203125,
+            "fontFamily": "Apfel Grotezk",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "lineHeight": 1.2,
+            "fill": "#575757",
+            "content": "Testimonials"
+          },
+          "destination": {
+            "type": "text",
+            "x": 0,
+            "y": 0,
+            "width": 85.03125,
+            "height": 19.203125,
+            "fontFamily": "Apfel Grotezk",
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "lineHeight": 1.2,
+            "fill": "#575757",
+            "content": "Journal"
+          }
+        }
+      ]
+    },
+    {
+      "source": "n8h47",
+      "page": "CWS9M",
+      "sourceLayers": 324,
+      "copiedLayers": 324,
+      "differences": []
+    }
+  ],
+  "placeholders": [],
+  "acceptance": {
+    "unexplainedClipping": 0,
+    "oneH1PerScreen": true,
+    "screens": 20,
+    "homepageBlockOrderPreserved": true,
+    "referenceStatesPreserved": 48,
+    "observedInCurrentBrowser": "Live Mindify desktop and mobile homepage, mobile open menu. Detailed motion curves use the preserved source capture and fixtures.",
+    "limitations": "Static editable design and state specimens; no event/timeline playback or working multi-page routes in Pen."
+  }
+}

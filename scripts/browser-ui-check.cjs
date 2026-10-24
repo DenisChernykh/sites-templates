@@ -1,0 +1,46 @@
+async page => {
+  const assert=(value,message)=>{if(!value)throw Error(message)};
+  const base='http://127.0.0.1:4173/demo/';
+  const output='/Users/denischernykh/Documents/ChatGPT/sites-templates/output/playwright/';
+  const errors=[];page.on('pageerror',error=>errors.push(error.message));
+  await page.setViewportSize({width:1440,height:1000});await page.goto(base);await page.bringToFront();await page.waitForTimeout(1900);
+  const fit=()=>page.evaluate(()=>({width:innerWidth,scrollWidth:document.documentElement.scrollWidth}));
+  const desktopFit=await fit();assert(desktopFit.width===desktopFit.scrollWidth,'desktop overflow');
+  await page.getByRole('button',{name:'Повторить появление'}).click();
+  const timings=await page.evaluate(()=>document.getAnimations().filter(a=>a.effect.target.closest('[data-words],[data-fade]')).map(a=>({text:a.effect.target.textContent.trim(),duration:a.effect.getTiming().duration,delay:a.effect.getTiming().delay,easing:a.effect.getTiming().easing})));
+  assert(timings.some(a=>a.duration===700&&a.delay===1000),'CTA timing');assert(timings.some(a=>a.delay===75),'word stagger');assert(timings.some(a=>a.delay===300),'description delay');
+  await page.waitForTimeout(100);await page.screenshot({path:output+'desktop-hero-transition.png'});await page.waitForTimeout(1800);await page.screenshot({path:output+'desktop-hero.png'});
+  const hover=page.locator('.hover-examples .button');await hover.scrollIntoViewIfNeeded();await hover.hover();await page.waitForTimeout(120);
+  const color=await hover.evaluate(el=>getComputedStyle(el).backgroundColor);assert(color!=='rgb(73, 128, 204)'&&color!=='rgb(255, 255, 255)','button transition');
+  await page.waitForTimeout(700);assert(await hover.evaluate(el=>getComputedStyle(el).backgroundColor)==='rgb(255, 255, 255)','button endpoint');
+  await page.mouse.move(10,100);await page.waitForTimeout(800);assert(await hover.evaluate(el=>getComputedStyle(el).backgroundColor)==='rgb(73, 128, 204)','button return');
+  const mail=page.locator('.mail-button');await mail.hover();await page.waitForTimeout(120);const scale=await mail.locator('svg').evaluate(el=>new DOMMatrixReadOnly(getComputedStyle(el).transform).a);assert(scale>1&&scale<1.11,'mail transition');
+  await page.mouse.move(10,100);await page.waitForTimeout(500);assert(Math.abs(await mail.locator('svg').evaluate(el=>new DOMMatrixReadOnly(getComputedStyle(el).transform).a)-1)<.0001,'mail return');
+  const toggle=page.getByRole('button',{name:'Открыть меню',exact:true});await toggle.click();await page.waitForTimeout(80);
+  assert(await page.locator('#phone-links').evaluate(el=>+getComputedStyle(el).opacity)===0,'menu delayed opacity');await page.screenshot({path:output+'desktop-menu-transition.png'});
+  await page.getByRole('button',{name:'Закрыть меню',exact:true}).click();await page.waitForTimeout(80);await page.getByRole('button',{name:'Открыть меню',exact:true}).click();await page.waitForTimeout(700);
+  assert(await page.locator('#phone-links').isVisible(),'menu reopen');assert(await page.locator('#phone-links').evaluate(el=>+getComputedStyle(el).opacity)===1,'menu endpoint');
+  await page.screenshot({path:output+'desktop-menu-open.png'});await page.keyboard.press('Escape');await page.waitForTimeout(500);assert(await page.locator('#phone-links').isHidden(),'Escape close');
+  await page.getByRole('button',{name:'Приостановить ленту',exact:true}).click();const x=await page.locator('.ticker-track').evaluate(el=>el.style.transform);await page.waitForTimeout(200);assert(await page.locator('.ticker-track').evaluate(el=>el.style.transform)===x,'pause');
+  await page.locator('.ticker-window').focus();await page.keyboard.press('ArrowRight');await page.waitForTimeout(30);assert(await page.locator('.ticker-track').evaluate(el=>el.style.transform)!==x,'keyboard');
+  await page.getByRole('button',{name:'Продолжить движение',exact:true}).click();await page.locator('.ticker-window').scrollIntoViewIfNeeded();await page.waitForTimeout(1200);await page.screenshot({path:output+'desktop-ticker.png'});
+  await page.emulateMedia({reducedMotion:'reduce'});await page.waitForTimeout(50);const frozen=await page.locator('.ticker-track').evaluate(el=>el.style.transform);await page.waitForTimeout(200);assert(await page.locator('.ticker-track').evaluate(el=>el.style.transform)===frozen,'reduced-motion ticker');await page.emulateMedia({reducedMotion:'no-preference'});
+  await page.setViewportSize({width:768,height:1024});await page.waitForTimeout(200);const tabletFit=await fit();assert(tabletFit.width===tabletFit.scrollWidth,'tablet overflow');
+  const context=await page.context().browser().newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true,deviceScaleFactor:1});
+  const mobile=await context.newPage();mobile.on('pageerror',error=>errors.push(error.message));await mobile.goto(base);await mobile.bringToFront();await mobile.waitForTimeout(1900);
+  const mobileFit=await mobile.evaluate(()=>({width:innerWidth,scrollWidth:document.documentElement.scrollWidth}));assert(mobileFit.width===mobileFit.scrollWidth,'mobile overflow');await mobile.screenshot({path:output+'mobile-hero.png'});
+  await mobile.getByRole('button',{name:'Открыть меню',exact:true}).tap();await mobile.waitForTimeout(700);await mobile.screenshot({path:output+'mobile-menu-open.png'});await mobile.getByRole('button',{name:'Закрыть меню',exact:true}).tap();await mobile.waitForTimeout(500);assert(await mobile.locator('#phone-links').isHidden(),'touch menu close');
+  const ticker=mobile.locator('.ticker-window');await ticker.scrollIntoViewIfNeeded();await mobile.waitForTimeout(200);const rect=await ticker.boundingBox();
+  const cdp=await context.newCDPSession(mobile),y=Math.min(750,rect.y+rect.height/2);
+  const touch=(type,x,y)=>cdp.send('Input.dispatchTouchEvent',{type,touchPoints:type==='touchEnd'||type==='touchCancel'?[]:[{x,y,id:1}]});
+  await touch('touchStart',300,y);for(let i=1;i<=12;i++){await touch('touchMove',300-i*17,y);await mobile.waitForTimeout(16)}await touch('touchEnd');await mobile.waitForTimeout(80);
+  assert(await mobile.locator('#ticker-status').textContent()==='Инерция','touch momentum');
+  const mobileInertia=await mobile.evaluate(async()=>{const el=document.querySelector('.ticker-track'),x=()=>new DOMMatrixReadOnly(getComputedStyle(el).transform).m41,a=x();await new Promise(r=>setTimeout(r,200));return x()-a});assert(mobileInertia<-20,'touch fling displacement');
+  // A new pointer session interrupts momentum, and holding drains release velocity.
+  await touch('touchStart',150,y);await touch('touchMove',200,y);await mobile.waitForTimeout(250);await touch('touchEnd');await mobile.waitForTimeout(100);assert(await mobile.locator('#ticker-status').textContent()==='30 px/s','touch held release');
+  await mobile.screenshot({path:output+'mobile-ticker.png'});
+  const before=await mobile.evaluate(()=>scrollY);await touch('touchStart',200,y);await touch('touchMove',201,y-100);await mobile.waitForTimeout(100);await touch('touchEnd');await mobile.waitForTimeout(200);const after=await mobile.evaluate(()=>scrollY);assert(after>before+20,'vertical touch scroll');
+  await cdp.detach();assert(errors.length===0,'page errors '+errors.join('; '));
+  const result={desktopFit,tabletFit,mobileFit,timings:timings.map(({easing,...rest})=>({...rest,springLinear:easing.startsWith('linear(')})),buttonIntermediateColor:color,mailIntermediateScale:scale,mobileFlingDisplacement200ms:mobileInertia,verticalTouchScroll:after-before,errors,screenshots:8,checks:['hover / leave / physical color spring','mail duration spring / reverse','menu delay / interruption / reopen / Escape / touch','ticker pause / resume / keyboard','reduced motion during active movement','touch fling / re-grab / hold / vertical scroll','1440 / 768 / 390 viewport fit']};
+  await context.close();return result;
+}

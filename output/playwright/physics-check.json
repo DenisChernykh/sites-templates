@@ -1,0 +1,16 @@
+{
+  "nativeCurves": 21,
+  "numericalSamples": 2589,
+  "maxAbsoluteError": 2.273181642920008e-14,
+  "tolerance": 1e-9,
+  "fixtureSource": "motion.CHT9uHeq.mjs — mt/gt (j export / internal inertia); SHA256 in evidence.json",
+  "checks": [
+    "published spring curves / velocities / settling",
+    "published inertia left / right / zero",
+    "auto handoff at 6 and 30 px/s",
+    "pan velocity hold / flick",
+    "bidirectional seamless wrap",
+    "gamma-correct RGB",
+    "native linear() conversion"
+  ]
+}

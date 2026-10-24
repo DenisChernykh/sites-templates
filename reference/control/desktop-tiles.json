@@ -1,0 +1,92 @@
+[
+  {
+    "section": "Header",
+    "from": 0,
+    "to": 78,
+    "file": "source-desktop-header-0.png",
+    "height": 1000,
+    "scrollY": 0,
+    "width": 1440
+  },
+  {
+    "section": "Hero",
+    "from": 0,
+    "to": 706,
+    "file": "source-desktop-hero-0.png",
+    "height": 1000,
+    "scrollY": 0,
+    "width": 1440
+  },
+  {
+    "section": "Benefits",
+    "from": 706,
+    "to": 867.609375,
+    "file": "source-desktop-benefits-0.png",
+    "height": 1000,
+    "scrollY": 616,
+    "width": 1440
+  },
+  {
+    "section": "About",
+    "from": 867.609375,
+    "to": 1683.609375,
+    "file": "source-desktop-about-0.png",
+    "height": 1000,
+    "scrollY": 777.5,
+    "width": 1440
+  },
+  {
+    "section": "Social Proof",
+    "from": 1683.609375,
+    "to": 1917.2109375,
+    "file": "source-desktop-social-proof-0.png",
+    "height": 1000,
+    "scrollY": 1593.5,
+    "width": 1440
+  },
+  {
+    "section": "Services",
+    "from": 1917.2109375,
+    "to": 2691,
+    "file": "source-desktop-services-0.png",
+    "height": 1000,
+    "scrollY": 1827.5,
+    "width": 1440
+  },
+  {
+    "section": "How It Works",
+    "from": 2691,
+    "to": 3380.390625,
+    "file": "source-desktop-how-it-works-0.png",
+    "height": 1000,
+    "scrollY": 2601,
+    "width": 1440
+  },
+  {
+    "section": "Testimonials",
+    "from": 3380.390625,
+    "to": 3994.5859375,
+    "file": "source-desktop-testimonials-0.png",
+    "height": 1000,
+    "scrollY": 3290.5,
+    "width": 1440
+  },
+  {
+    "section": "CTA",
+    "from": 3994.5859375,
+    "to": 4622.5859375,
+    "file": "source-desktop-cta-0.png",
+    "height": 1000,
+    "scrollY": 3729,
+    "width": 1440
+  },
+  {
+    "section": "Footer",
+    "from": 4622.5859375,
+    "to": 4728.984375,
+    "file": "source-desktop-footer-0.png",
+    "height": 1000,
+    "scrollY": 3729,
+    "width": 1440
+  }
+]

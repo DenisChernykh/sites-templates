@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-18",
+  "screens": [
+    {
+      "id": "Br1Oz",
+      "name": "Home · Desktop 1440 · /",
+      "bounds": {
+        "x": 5500,
+        "y": 13200,
+        "width": 1440,
+        "height": 4728.984375
+      }
+    },
+    {
+      "id": "CWS9M",
+      "name": "Home · Mobile 390 · /",
+      "bounds": {
+        "x": 7040,
+        "y": 13200,
+        "width": 390,
+        "height": 6097.109375
+      }
+    },
+    {
+      "id": "iMVX6",
+      "name": "About Julia · Desktop 1440 · /about/",
+      "bounds": {
+        "x": 7760,
+        "y": 13200,
+        "width": 1440,
+        "height": 3022.2000000000007
+      }
+    },
+    {
+      "id": "Ehbks",
+      "name": "About Julia · Mobile 390 · /about/",
+      "bounds": {
+        "x": 9300,
+        "y": 13200,
+        "width": 390,
+        "height": 3593.7999999999993
+      }
+    },
+    {
+      "id": "N1THq2",
+      "name": "Services · Desktop 1440 · /services/",
+      "bounds": {
+        "x": 10020,
+        "y": 13200,
+        "width": 1440,
+        "height": 2934.9890625000007
+      }
+    },
+    {
+      "id": "SxiiA",
+      "name": "Services · Mobile 390 · /services/",
+      "bounds": {
+        "x": 11560,
+        "y": 13200,
+        "width": 390,
+        "height": 3762.4078125000015
+      }
+    },
+    {
+      "id": "DUGmn",
+      "name": "Couples Therapy · Desktop 1440 · /services/couples-therapy/",
+      "bounds": {
+        "x": 12280,
+        "y": 13200,
+        "width": 1440,
+        "height": 3391.2000000000007
+      }
+    },
+    {
+      "id": "b1yh1v",
+      "name": "Couples Therapy · Mobile 390 · /services/couples-therapy/",
+      "bounds": {
+        "x": 13820,
+        "y": 13200,
+        "width": 390,
+        "height": 4348.799999999999
+      }
+    },
+    {
+      "id": "gqWBS",
+      "name": "Individual Therapy · Desktop 1440 · /services/individual-therapy/",
+      "bounds": {
+        "x": 14540,
+        "y": 13200,
+        "width": 1440,
+        "height": 3630.5999999999985
+      }
+    },
+    {
+      "id": "SHk58",
+      "name": "Individual Therapy · Mobile 390 · /services/individual-therapy/",
+      "bounds": {
+        "x": 16080,
+        "y": 13200,
+        "width": 390,
+        "height": 4248.200000000001
+      }
+    },
+    {
+      "id": "snFXE",
+      "name": "Grief Counselling · Desktop 1440 · /services/grief-counselling/",
+      "bounds": {
+        "x": 16800,
+        "y": 13200,
+        "width": 1440,
+        "height": 3694.5999999999985
+      }
+    },
+    {
+      "id": "TF1Wi",
+      "name": "Grief Counselling · Mobile 390 · /services/grief-counselling/",
+      "bounds": {
+        "x": 18340,
+        "y": 13200,
+        "width": 390,
+        "height": 4294.200000000001
+      }
+    },
+    {
+      "id": "MXbQX",
+      "name": "Work-Life Balance Coaching · Desktop 1440 · /services/work-life-balance-coaching/",
+      "bounds": {
+        "x": 19060,
+        "y": 13200,
+        "width": 1440,
+        "height": 3720
+      }
+    },
+    {
+      "id": "D7TdM",
+      "name": "Work-Life Balance Coaching · Mobile 390 · /services/work-life-balance-coaching/",
+      "bounds": {
+        "x": 20600,
+        "y": 13200,
+        "width": 390,
+        "height": 4376.200000000001
+      }
+    },
+    {
+      "id": "X7zAal",
+      "name": "Journal · Desktop 1440 · /journal/",
+      "bounds": {
+        "x": 21320,
+        "y": 13200,
+        "width": 1440,
+        "height": 2488.7999999999993
+      }
+    },
+    {
+      "id": "e7BOes",
+      "name": "Journal · Mobile 390 · /journal/",
+      "bounds": {
+        "x": 22860,
+        "y": 13200,
+        "width": 390,
+        "height": 2863.3999999999996
+      }
+    },
+    {
+      "id": "CIqYX",
+      "name": "Before your first online session · Desktop 1440 · /journal/before-your-first-online-session/",
+      "bounds": {
+        "x": 23580,
+        "y": 13200,
+        "width": 1440,
+        "height": 3761.5999999999985
+      }
+    },
+    {
+      "id": "b9lNN6",
+      "name": "Before your first online session · Mobile 390 · /journal/before-your-first-online-session/",
+      "bounds": {
+        "x": 25120,
+        "y": 13200,
+        "width": 390,
+        "height": 3866.4000000000015
+      }
+    },
+    {
+      "id": "WcFgi",
+      "name": "Contact · Desktop 1440 · /contact/",
+      "bounds": {
+        "x": 25840,
+        "y": 13200,
+        "width": 1440,
+        "height": 2175.2000000000007
+      }
+    },
+    {
+      "id": "ozsZk",
+      "name": "Contact · Mobile 390 · /contact/",
+      "bounds": {
+        "x": 27380,
+        "y": 13200,
+        "width": 390,
+        "height": 3131.3999999999996
+      }
+    }
+  ],
+  "components": {
+    "headerD": "ZnDim",
+    "headerM": "r2BkG",
+    "footerD": "YESSw",
+    "footerM": "ITqdK",
+    "button": "mAvBi",
+    "buttonLabel": "Azh0A",
+    "badge": "zgd5j",
+    "ctaD": "n0KUf5",
+    "ctaM": "IBOhm",
+    "adaptiveBadge": "zqeIe",
+    "field": "TnLMR",
+    "openMenu": "p40jV"
+  },
+  "statesBoard": "tQO7I",
+  "mapBoard": "IqPsq"
+}

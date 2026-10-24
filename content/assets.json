@@ -1,0 +1,98 @@
+[
+  {
+    "id": "AWZSn",
+    "name": "Зеркало и море",
+    "fill": {
+      "type": "image",
+      "enabled": true,
+      "url": "images/hero-mirror-sea.png",
+      "mode": "fill"
+    },
+    "metadata": {
+      "type": "unsplash",
+      "username": "wilhelmgunkel",
+      "link": "https://unsplash.com/@wilhelmgunkel",
+      "author": "Wilhelm Gunkel"
+    }
+  },
+  {
+    "id": "brgCq",
+    "name": "Морской свет",
+    "fill": {
+      "type": "image",
+      "enabled": true,
+      "url": "https://images.unsplash.com/photo-1731486789540-8309e0e0f71f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzMDQyMjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "mode": "fill"
+    },
+    "metadata": {
+      "type": "unsplash",
+      "username": "khilch",
+      "link": "https://unsplash.com/@khilch",
+      "author": "Daniel Khilchenko"
+    }
+  },
+  {
+    "id": "hYJdu",
+    "name": "Дорога и горизонт",
+    "fill": {
+      "type": "image",
+      "enabled": true,
+      "url": "https://images.unsplash.com/photo-1688298093637-e23697a18de4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzMDQyMjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "mode": "fill"
+    },
+    "metadata": {
+      "type": "unsplash",
+      "username": "anniespratt",
+      "link": "https://unsplash.com/@anniespratt",
+      "author": "Annie Spratt"
+    }
+  },
+  {
+    "id": "SgBRP",
+    "name": "Блокнот и карандаш",
+    "fill": {
+      "type": "image",
+      "enabled": true,
+      "url": "https://images.unsplash.com/photo-1713455645544-cf9d2a0d213a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzMDQyMjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "mode": "fill"
+    },
+    "metadata": {
+      "type": "unsplash",
+      "username": "roshaan",
+      "link": "https://unsplash.com/@roshaan",
+      "author": "Hamid Roshaan"
+    }
+  },
+  {
+    "id": "zUKDo",
+    "name": "Бумага и краски",
+    "fill": {
+      "type": "image",
+      "enabled": true,
+      "url": "https://images.unsplash.com/photo-1613899344656-f45996fea5ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzMDQyMjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "mode": "fill"
+    },
+    "metadata": {
+      "type": "unsplash",
+      "username": "miracleday",
+      "link": "https://unsplash.com/@miracleday",
+      "author": "Elena Mozhvilo"
+    }
+  },
+  {
+    "id": "moOw9",
+    "name": "Спокойный интерьер",
+    "fill": {
+      "type": "image",
+      "enabled": true,
+      "url": "https://images.unsplash.com/photo-1648475236583-2e25a6cbf3bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzMDQyMjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "mode": "fill"
+    },
+    "metadata": {
+      "type": "unsplash",
+      "username": "baileyal3xander",
+      "link": "https://unsplash.com/@baileyal3xander",
+      "author": "Bailey Alexander"
+    }
+  }
+]

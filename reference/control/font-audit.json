@@ -1,0 +1,78 @@
+[
+  {
+    "file": "fonts/mindify.framer.website/b28028a948385cb9.woff2",
+    "family": "Apfel Grotezk Mittel",
+    "style": "Regular",
+    "cyrillic": 2,
+    "test": {
+      "Ю": false,
+      "л": false,
+      "я": false,
+      "и": false,
+      "н": false,
+      "с": false,
+      "т": false,
+      "р": false,
+      "у": false,
+      "к": false,
+      "ц": false
+    }
+  },
+  {
+    "file": "fonts/mindify.framer.website/7a67e42dc79b056b.woff2",
+    "family": "false",
+    "style": "Semi-bold",
+    "cyrillic": 0,
+    "test": {
+      "Ю": false,
+      "л": false,
+      "я": false,
+      "и": false,
+      "н": false,
+      "с": false,
+      "т": false,
+      "р": false,
+      "у": false,
+      "к": false,
+      "ц": false
+    }
+  },
+  {
+    "file": "fonts/mindify.framer.website/7f6de341cbc6058b.woff2",
+    "family": "Satoshi Medium",
+    "style": "Regular",
+    "cyrillic": 0,
+    "test": {
+      "Ю": false,
+      "л": false,
+      "я": false,
+      "и": false,
+      "н": false,
+      "с": false,
+      "т": false,
+      "р": false,
+      "у": false,
+      "к": false,
+      "ц": false
+    }
+  },
+  {
+    "file": "fonts/mindify.framer.website/2b02b47c7f50c758.woff2",
+    "family": "Apfel Grotezk",
+    "style": "Regular",
+    "cyrillic": 2,
+    "test": {
+      "Ю": false,
+      "л": false,
+      "я": false,
+      "и": false,
+      "н": false,
+      "с": false,
+      "т": false,
+      "р": false,
+      "у": false,
+      "к": false,
+      "ц": false
+    }
+  }
+]

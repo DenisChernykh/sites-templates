@@ -1,0 +1,119 @@
+[
+  {
+    "section": "Header",
+    "from": 0,
+    "to": 54,
+    "file": "output/control/source-tablet-header-0.png",
+    "scrollY": 0,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Hero",
+    "from": 0,
+    "to": 888.6015625,
+    "file": "output/control/source-tablet-hero-0.png",
+    "scrollY": 0,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Benefits",
+    "from": 888.6015625,
+    "to": 1000.6015625,
+    "file": "output/control/source-tablet-benefits-0.png",
+    "scrollY": 808.5,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "About",
+    "from": 1000.6015625,
+    "to": 1900.6015625,
+    "file": "output/control/source-tablet-about-0.png",
+    "scrollY": 920.5,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "About",
+    "from": 1900.6015625,
+    "to": 1975.359375,
+    "file": "output/control/source-tablet-about-1.png",
+    "scrollY": 1821,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Social Proof",
+    "from": 1975.359375,
+    "to": 2460.359375,
+    "file": "output/control/source-tablet-social-proof-0.png",
+    "scrollY": 1895,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Services",
+    "from": 2460.359375,
+    "to": 3360.359375,
+    "file": "output/control/source-tablet-services-0.png",
+    "scrollY": 2380.5,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Services",
+    "from": 3360.359375,
+    "to": 3796.3671875,
+    "file": "output/control/source-tablet-services-1.png",
+    "scrollY": 3280.5,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "How It Works",
+    "from": 3796.3671875,
+    "to": 4696.3671875,
+    "file": "output/control/source-tablet-how-it-works-0.png",
+    "scrollY": 3716.5,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "How It Works",
+    "from": 4696.3671875,
+    "to": 4763.9765625,
+    "file": "output/control/source-tablet-how-it-works-1.png",
+    "scrollY": 4616,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Testimonials",
+    "from": 4763.9765625,
+    "to": 5187.4765625,
+    "file": "output/control/source-tablet-testimonials-0.png",
+    "scrollY": 4684,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "CTA",
+    "from": 5187.4765625,
+    "to": 5751.4765625,
+    "file": "output/control/source-tablet-cta-0.png",
+    "scrollY": 4955,
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "section": "Footer",
+    "from": 5751.4765625,
+    "to": 5979.671875,
+    "file": "output/control/source-tablet-footer-0.png",
+    "scrollY": 4955,
+    "width": 768,
+    "height": 1024
+  }
+]

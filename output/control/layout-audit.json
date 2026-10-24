@@ -1,0 +1,325 @@
+{
+  "screens": [
+    {
+      "root": "sq8m0",
+      "sections": [
+        {
+          "id": "MbdUT",
+          "name": "Hero",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 706
+          }
+        },
+        {
+          "id": "QbWvc",
+          "name": "Benefits",
+          "bounds": {
+            "x": 0,
+            "y": 706,
+            "width": 1440,
+            "height": 161.609375
+          }
+        },
+        {
+          "id": "DLcx0",
+          "name": "About",
+          "bounds": {
+            "x": 0,
+            "y": 867.609375,
+            "width": 1440,
+            "height": 816
+          }
+        },
+        {
+          "id": "OTrfJ",
+          "name": "Social Proof",
+          "bounds": {
+            "x": 0,
+            "y": 1683.609375,
+            "width": 1440,
+            "height": 233.6015625
+          }
+        },
+        {
+          "id": "acQE2",
+          "name": "Services",
+          "bounds": {
+            "x": 0,
+            "y": 1917.2109375,
+            "width": 1440,
+            "height": 773.7890625
+          }
+        },
+        {
+          "id": "ah4xl",
+          "name": "How It Works",
+          "bounds": {
+            "x": 0,
+            "y": 2691,
+            "width": 1440,
+            "height": 689.390625
+          }
+        },
+        {
+          "id": "TKOtn",
+          "name": "Testimonials",
+          "bounds": {
+            "x": 0,
+            "y": 3380.390625,
+            "width": 1440,
+            "height": 614.1953125
+          }
+        },
+        {
+          "id": "I8GsY",
+          "name": "CTA",
+          "bounds": {
+            "x": 0,
+            "y": 3994.5859375,
+            "width": 1440,
+            "height": 628
+          }
+        },
+        {
+          "id": "g9VW3",
+          "name": "Footer",
+          "bounds": {
+            "x": 0,
+            "y": 4622.5859375,
+            "width": 1440,
+            "height": 106.3984375
+          }
+        },
+        {
+          "id": "U3w88",
+          "name": "Header",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 78
+          }
+        }
+      ],
+      "textBoxProblems": []
+    },
+    {
+      "root": "LRuxO",
+      "sections": [
+        {
+          "id": "xjZKW",
+          "name": "Hero",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 888.6015625
+          }
+        },
+        {
+          "id": "s4xOO",
+          "name": "Benefits",
+          "bounds": {
+            "x": 0,
+            "y": 888.6015625,
+            "width": 768,
+            "height": 112
+          }
+        },
+        {
+          "id": "KMPUW",
+          "name": "About",
+          "bounds": {
+            "x": 0,
+            "y": 1000.6015625,
+            "width": 768,
+            "height": 974.7578125
+          }
+        },
+        {
+          "id": "EX2KP",
+          "name": "Social Proof",
+          "bounds": {
+            "x": 0,
+            "y": 1975.359375,
+            "width": 768,
+            "height": 485
+          }
+        },
+        {
+          "id": "O8Vmm",
+          "name": "Services",
+          "bounds": {
+            "x": 0,
+            "y": 2460.359375,
+            "width": 768,
+            "height": 1336.0078125
+          }
+        },
+        {
+          "id": "s32j3",
+          "name": "How It Works",
+          "bounds": {
+            "x": 0,
+            "y": 3796.3671875,
+            "width": 768,
+            "height": 967.609375
+          }
+        },
+        {
+          "id": "i8UWUD",
+          "name": "Testimonials",
+          "bounds": {
+            "x": 0,
+            "y": 4763.9765625,
+            "width": 768,
+            "height": 423.5
+          }
+        },
+        {
+          "id": "R6jMaK",
+          "name": "CTA",
+          "bounds": {
+            "x": 0,
+            "y": 5187.4765625,
+            "width": 768,
+            "height": 564
+          }
+        },
+        {
+          "id": "nQytq",
+          "name": "Footer",
+          "bounds": {
+            "x": 0,
+            "y": 5751.4765625,
+            "width": 768,
+            "height": 228.1953125
+          }
+        },
+        {
+          "id": "JmNIx",
+          "name": "Header",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 54
+          }
+        }
+      ],
+      "textBoxProblems": []
+    },
+    {
+      "root": "n8h47",
+      "sections": [
+        {
+          "id": "S5oK3",
+          "name": "Hero",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 888.6015625
+          }
+        },
+        {
+          "id": "VVJdu",
+          "name": "Benefits",
+          "bounds": {
+            "x": 0,
+            "y": 888.6015625,
+            "width": 390,
+            "height": 144
+          }
+        },
+        {
+          "id": "d1qVaG",
+          "name": "About",
+          "bounds": {
+            "x": 0,
+            "y": 1032.6015625,
+            "width": 390,
+            "height": 879.09375
+          }
+        },
+        {
+          "id": "WE3fS",
+          "name": "Social Proof",
+          "bounds": {
+            "x": 0,
+            "y": 1911.6953125,
+            "width": 390,
+            "height": 485
+          }
+        },
+        {
+          "id": "htmIh",
+          "name": "Services",
+          "bounds": {
+            "x": 0,
+            "y": 2396.6953125,
+            "width": 390,
+            "height": 1420.0078125
+          }
+        },
+        {
+          "id": "i7jUY3",
+          "name": "How It Works",
+          "bounds": {
+            "x": 0,
+            "y": 3816.703125,
+            "width": 390,
+            "height": 1064.7109375
+          }
+        },
+        {
+          "id": "t1uxc",
+          "name": "Testimonials",
+          "bounds": {
+            "x": 0,
+            "y": 4881.4140625,
+            "width": 390,
+            "height": 423.5
+          }
+        },
+        {
+          "id": "DeueD",
+          "name": "CTA",
+          "bounds": {
+            "x": 0,
+            "y": 5304.9140625,
+            "width": 390,
+            "height": 564
+          }
+        },
+        {
+          "id": "l4K41W",
+          "name": "Footer",
+          "bounds": {
+            "x": 0,
+            "y": 5868.9140625,
+            "width": 390,
+            "height": 228.1953125
+          }
+        },
+        {
+          "id": "hWVYO",
+          "name": "Header",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 54
+          }
+        }
+      ],
+      "textBoxProblems": []
+    }
+  ],
+  "motionStates": 48,
+  "projectTextMatches": 0,
+  "roots": 5
+}

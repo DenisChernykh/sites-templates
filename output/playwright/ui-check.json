@@ -1,0 +1,145 @@
+{
+  "desktopFit": {
+    "width": 1440,
+    "scrollWidth": 1440
+  },
+  "tabletFit": {
+    "width": 768,
+    "scrollWidth": 768
+  },
+  "mobileFit": {
+    "width": 390,
+    "scrollWidth": 390
+  },
+  "timings": [
+    {
+      "text": "Найти",
+      "duration": 400,
+      "delay": 0,
+      "springLinear": true
+    },
+    {
+      "text": "себя.",
+      "duration": 400,
+      "delay": 75,
+      "springLinear": true
+    },
+    {
+      "text": "И",
+      "duration": 400,
+      "delay": 150,
+      "springLinear": true
+    },
+    {
+      "text": "свой",
+      "duration": 400,
+      "delay": 225,
+      "springLinear": true
+    },
+    {
+      "text": "путь.",
+      "duration": 400,
+      "delay": 300,
+      "springLinear": true
+    },
+    {
+      "text": "Понять,",
+      "duration": 400,
+      "delay": 300,
+      "springLinear": true
+    },
+    {
+      "text": "что",
+      "duration": 400,
+      "delay": 375,
+      "springLinear": true
+    },
+    {
+      "text": "важно",
+      "duration": 400,
+      "delay": 450,
+      "springLinear": true
+    },
+    {
+      "text": "тебе.",
+      "duration": 400,
+      "delay": 525,
+      "springLinear": true
+    },
+    {
+      "text": "Найти",
+      "duration": 400,
+      "delay": 600,
+      "springLinear": true
+    },
+    {
+      "text": "своё",
+      "duration": 400,
+      "delay": 675,
+      "springLinear": true
+    },
+    {
+      "text": "направление.",
+      "duration": 400,
+      "delay": 750,
+      "springLinear": true
+    },
+    {
+      "text": "Создать",
+      "duration": 400,
+      "delay": 825,
+      "springLinear": true
+    },
+    {
+      "text": "свою",
+      "duration": 400,
+      "delay": 900,
+      "springLinear": true
+    },
+    {
+      "text": "инструкцию",
+      "duration": 400,
+      "delay": 975,
+      "springLinear": true
+    },
+    {
+      "text": "к",
+      "duration": 400,
+      "delay": 1050,
+      "springLinear": true
+    },
+    {
+      "text": "себе.",
+      "duration": 400,
+      "delay": 1125,
+      "springLinear": true
+    },
+    {
+      "text": "ЮЛЯ — КОУЧ ПО ПРЕДНАЗНАЧЕНИЮ",
+      "duration": 400,
+      "delay": 500,
+      "springLinear": true
+    },
+    {
+      "text": "↗Посмотреть эффекты",
+      "duration": 700,
+      "delay": 1000,
+      "springLinear": true
+    }
+  ],
+  "buttonIntermediateColor": "rgb(203, 214, 236)",
+  "mailIntermediateScale": 1.08684,
+  "mobileFlingDisplacement200ms": -112.74700000000001,
+  "verticalTouchScroll": 85,
+  "errors": [],
+  "screenshots": 8,
+  "checks": [
+    "hover / leave / physical color spring",
+    "mail duration spring / reverse",
+    "menu delay / interruption / reopen / Escape / touch",
+    "ticker pause / resume / keyboard",
+    "reduced motion during active movement",
+    "touch fling / re-grab / hold / vertical scroll",
+    "1440 / 768 / 390 viewport fit"
+  ]
+}

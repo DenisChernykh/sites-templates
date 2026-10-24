@@ -1,0 +1,211 @@
+{
+  "pages": [
+    {
+      "url": "/",
+      "title": "Mindify — Online Therapy & Support",
+      "description": "Explore Mindify, meet Julia and discover individual therapy, couples therapy, grief counselling and work-life balance coaching.",
+      "h1": "Find peace. Find yourself.",
+      "plan": {
+        "task": "Понять предложение и выбрать следующий шаг.",
+        "sequence": "Hero → Benefits → About → Social Proof → Services → How It Works → Testimonials → CTA → Footer. Шапка сохраняется.",
+        "reuse": "Все исходные блоки и их геометрия скопированы целиком. Из видимого меню Testimonials заменён на Journal. Остальные переходы описаны в карте ссылок.",
+        "entry": "Бренд в шапке и подвале, прямой вход.",
+        "exit": "О специалисте; обзор и четыре услуги; контакты. How It Works остаётся якорем главной.",
+        "new": "Новых содержательных блоков нет. Узнаваемая композиция главной сохранена."
+      }
+    },
+    {
+      "url": "/about/",
+      "title": "About Julia — Your First Conversation | Mindify",
+      "description": "Meet Julia, explore the support introduced at Mindify and find questions to ask before choosing a therapist.",
+      "h1": "A space to talk.\nA person to meet.",
+      "plan": {
+        "task": "Познакомиться со специалистом и понять, какие вопросы задать перед работой.",
+        "sequence": "Хлебные крошки → портрет и знакомство → слушать прежде плана → подход и личный контекст → квалификации → связанные страницы → CTA → подвал.",
+        "reuse": "Исходный портрет, рукописная подпись, бейджи, белые поверхности, типографика About и CTA.",
+        "entry": "About Me в общем меню; карточки переходов со страниц услуг и журнала.",
+        "exit": "Услуги; руководство перед первой встречей; контакты.",
+        "new": "Расширенная биография нужна для самостоятельной страницы профиля. Две открытые текстовые колонки продолжают исходный About без новых декоративных карточек."
+      }
+    },
+    {
+      "url": "/services/",
+      "title": "Therapy & Coaching Services — Explore Your Options | Mindify",
+      "description": "Compare four Mindify services: individual therapy, couples therapy, grief counselling and work-life balance coaching.",
+      "h1": "Find the right\nspace for you.",
+      "plan": {
+        "task": "Сравнить четыре разных формата и выбрать подробную страницу.",
+        "sequence": "Вступление → исходная сетка четырёх услуг → помощь при неопределённости → связанные материалы → CTA → подвал.",
+        "reuse": "Карточки Services скопированы с отдельными исходными мобильными изображениями и градиентами. Типографика Hero / About.",
+        "entry": "Services в меню; внутренние переходы; прямой тематический вход.",
+        "exit": "Каждая из четырёх услуг; профиль; статья; контакты.",
+        "new": "Вступление и раздел выбора объясняют различия и помогают посетителю, который ещё не определился. На карточках Couples и Individual тексты намеренно соотнесены с правильной темой; перестановка исходных описаний не считается дизайн-правилом."
+      }
+    },
+    {
+      "url": "/services/couples-therapy/",
+      "title": "Couples Therapy — Communication & Connection | Mindify",
+      "description": "Explore couples therapy at Mindify, questions to discuss together and what to clarify before arranging a first conversation.",
+      "h1": "Couples\nTherapy",
+      "plan": {
+        "task": "Понять фокус совместной работы и обсудить выбор формата с партнёром.",
+        "sequence": "Hero с парной фотографией → ситуации в отношениях → три вопроса для разговора → индивидуальный формат и статья → условия встречи → CTA → подвал.",
+        "reuse": "Hero: 488 + 616 px, исходная фотография Couples, CTA. Нумерация 64 px из How It Works.",
+        "entry": "Карточка Couples на главной и обзоре; Individual; тематический вход.",
+        "exit": "Individual; практическая статья; контакты.",
+        "new": "Вопросы для двоих нужны для выбора совместного формата. Исходная нумерация процесса применена к вопросам, а не к вымышленной программе терапии."
+      }
+    },
+    {
+      "url": "/services/individual-therapy/",
+      "title": "Individual Therapy — Space to Talk | Mindify",
+      "description": "Learn about individual therapy at Mindify, explore the questions you can bring and prepare for an introductory conversation.",
+      "h1": "Individual\nTherapy",
+      "plan": {
+        "task": "Узнать, с чем можно начать личный разговор, и подготовить вопросы.",
+        "sequence": "Hero → крупное вступительное высказывание → темы для разговора → подготовка → профиль / парный формат / статья → условия → CTA → подвал.",
+        "reuse": "Исходные десктопная и мобильная фотографии Individual. Центрированная композиция Benefits; открытые колонки About.",
+        "entry": "Карточки на главной и обзоре; Couples / Coaching; прямой вход.",
+        "exit": "Профиль; Couples; статья; контакты.",
+        "new": "Редакционный текст и подготовка раскрывают личный формат. Состав отличается от парной услуги: нет повторения трёх этапов и отзывов."
+      }
+    },
+    {
+      "url": "/services/grief-counselling/",
+      "title": "Grief Counselling — Space for Loss | Mindify",
+      "description": "Explore grief counselling at Mindify, what you might want to talk about and questions to ask before a first meeting.",
+      "h1": "Grief\nCounselling",
+      "plan": {
+        "task": "Понять характер пространства для разговора о потере без обещания сроков или результата.",
+        "sequence": "Hero → высказывание о собственном опыте → что может быть полезным → два практических вопроса → контакты / статья → условия → CTA → подвал.",
+        "reuse": "Исходная фотография птиц Grief, большой текст Benefits, сетка About и исходный CTA.",
+        "entry": "Карточки Grief; обзор услуг; прямой тематический вход.",
+        "exit": "Практическая статья; контакты.",
+        "new": "Спокойная повествовательная секция и открытые вопросы раскрывают отдельную тему потери. Никаких вымышленных стадий горя или гарантированного исцеления."
+      }
+    },
+    {
+      "url": "/services/work-life-balance-coaching/",
+      "title": "Work-Life Balance Coaching — Priorities & Boundaries | Mindify",
+      "description": "Explore work-life balance coaching at Mindify and questions about your week, priorities, energy and the boundaries you want to discuss.",
+      "h1": "Work-Life\nBalance Coaching",
+      "plan": {
+        "task": "Посмотреть на свою неделю и понять различие коучинга и индивидуального формата.",
+        "sequence": "Hero → вопросы об обычной неделе → собственное понимание баланса → сравнение форматов → связанные переходы → условия → CTA → подвал.",
+        "reuse": "Исходная фотография рабочего стола; типографика и открытая композиция About / Benefits.",
+        "entry": "Карточки Coaching; обзор; прямой вход.",
+        "exit": "Individual; контакты.",
+        "new": "Вопросы о времени и границах помогают выбрать формат, поэтому заменяют типовой набор преимуществ. Сравнение двух форматов оформлено текстовыми колонками."
+      }
+    },
+    {
+      "url": "/journal/",
+      "title": "Mindify Journal — Preparing for Online Support",
+      "description": "Read practical Mindify journal material to help you ask questions and prepare for an online conversation.",
+      "h1": "A little room\nto understand.",
+      "plan": {
+        "task": "Найти полезный материал перед первой встречей.",
+        "sequence": "Заголовок журнала → одна полноценная публикация с фотографией → тематические вопросы → ссылки на профиль и услуги → CTA → подвал.",
+        "reuse": "Исходный Hero / Services: изображение рядом с текстом, белый фон, бейдж, исходные ссылки и CTA.",
+        "entry": "Journal в меню и подвале; обратный переход из статьи.",
+        "exit": "Полная статья; профиль; услуги; контакты.",
+        "new": "Редакционная запись нужна для навигации по материалам. В каталоге ровно одна написанная статья, без фиктивного архива и дублей."
+      }
+    },
+    {
+      "url": "/journal/before-your-first-online-session/",
+      "title": "Before Your First Online Session — Practical Guide | Mindify",
+      "description": "A practical checklist of questions about online sessions: the meeting link, private space, fees, confidentiality and what happens next.",
+      "h1": "Before your first\nonline session",
+      "plan": {
+        "task": "Подготовить технические и организационные вопросы перед онлайн-встречей.",
+        "sequence": "Заголовок и вводный текст → автор и дата → фотография → содержание → пять полноценных разделов → практический список → связанные страницы → подвал.",
+        "reuse": "Apfel Grotezk и исходная шкала размеров; белая карточка 24 px для списка, фотография главной.",
+        "entry": "Journal; услуги; профиль; контакты; возможный информационный поиск.",
+        "exit": "Контакты; обзор услуг; журнал. Содержание ведёт на разделы этой же статьи.",
+        "new": "Колонка чтения 720 px нужна для длинного самостоятельного материала. Текст 20/32 px на компьютере, 17/27.2 px на телефоне. Содержание и список не имитируют новые услуги."
+      }
+    },
+    {
+      "url": "/contact/",
+      "title": "Contact Mindify — Ask About a First Conversation",
+      "description": "Choose the support you want to ask about and prepare a short enquiry to Mindify. Confirm arrangements before booking.",
+      "h1": "Let’s start with\nyour question.",
+      "plan": {
+        "task": "Выбрать формат, узнать условия и составить короткое обращение.",
+        "sequence": "Вступление → форма + практическая информация → длительность и стоимость четырёх форматов → навигация → подвал.",
+        "reuse": "Source button: синий фон, радиус 12 px, обратный hover. Белые поверхности и бейджи исходных карточек; двухколоночная сетка About.",
+        "entry": "Все Book A Session, общий подвал, связанные блоки.",
+        "exit": "Услуги; статья подготовки; возврат на главную.",
+        "new": "Форма и строки условий отсутствуют в референсе, но нужны для обращения. Поля используют белую поверхность и радиус кнопки, без нового декоративного языка. На мобильном форма идёт перед условиями."
+      }
+    }
+  ],
+  "navigation": [
+    [
+      "Mindify",
+      "/"
+    ],
+    [
+      "About Me",
+      "/about/"
+    ],
+    [
+      "Services",
+      "/services/"
+    ],
+    [
+      "How It Works",
+      "/#how"
+    ],
+    [
+      "Journal",
+      "/journal/"
+    ],
+    [
+      "Book A Session",
+      "/contact/"
+    ]
+  ],
+  "serviceLinks": [
+    [
+      "Couples Therapy",
+      "/services/couples-therapy/"
+    ],
+    [
+      "Individual Therapy",
+      "/services/individual-therapy/"
+    ],
+    [
+      "Grief Counselling",
+      "/services/grief-counselling/"
+    ],
+    [
+      "Work-Life Balance Coaching",
+      "/services/work-life-balance-coaching/"
+    ]
+  ],
+  "articleToc": [
+    [
+      "You do not have to prepare a perfect story",
+      "/journal/before-your-first-online-session/#section-1"
+    ],
+    [
+      "Clarify the practical arrangements",
+      "/journal/before-your-first-online-session/#section-2"
+    ],
+    [
+      "Choose a place for the conversation",
+      "/journal/before-your-first-online-session/#section-3"
+    ],
+    [
+      "Keep your questions nearby",
+      "/journal/before-your-first-online-session/#section-4"
+    ],
+    [
+      "Leave room to decide what comes next",
+      "/journal/before-your-first-online-session/#section-5"
+    ]
+  ],
+  "status": "Design targets; no routes deployed."
+}

@@ -1,0 +1,9 @@
+{
+  "screens": 20,
+  "pages": 10,
+  "uniqueTitles": 10,
+  "uniqueDescriptions": 10,
+  "oneH1PerScreen": true,
+  "allImagesExist": true,
+  "missingLinkTargets": []
+}

@@ -1,0 +1,74 @@
+{
+  "observed": "2026-10-18",
+  "sources": [
+    {
+      "url": "https://mindify.framer.website/",
+      "sha256": "b8705be5ff8078090e6bfad3b16d91d3a8b2e5c0e3f79790810dac655f73f7e7"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/2d6zHJJG3TcQbbt1vUYQIn/script_main.xkvi9DdC.mjs",
+      "sha256": "dbb77b0be7699708c52a436a2b909a1dbc07a5995d837a547765e3d49e899625"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/2d6zHJJG3TcQbbt1vUYQIn/BpgMhlbo0Ydgsc01nNmHVlAZiQwvbxNu-HG0161k03s.BOz4cIGL.mjs",
+      "sha256": "b03dfd41aca5f7a664f65fc5ae6d3bfaf95659f4968bf96a81e369e1b79bd8b7"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/2d6zHJJG3TcQbbt1vUYQIn/shared-lib.Bxw2Me7f.mjs",
+      "sha256": "0aea6b1cc201cffc640c040be0ef0b06b1ad372c647e1a68cafa011e5b4ec026"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/2d6zHJJG3TcQbbt1vUYQIn/framer.ChYuykLe.mjs",
+      "sha256": "ce0430538f4344f19e2fabc93605d20f8526aa54d2339e7080c8f08eb8eb2e85"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/2d6zHJJG3TcQbbt1vUYQIn/motion.CHT9uHeq.mjs",
+      "sha256": "57af692649eb4b7394c8f427e20eb54814b33863b70b75c7e3ac39af537362c9"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/2d6zHJJG3TcQbbt1vUYQIn/motion.CHT9uHeq.mjs.map",
+      "sha256": "1dd5f2b7416438069513e3dba9bbba91114caa4fde0156affc4b8449914d6406"
+    }
+  ],
+  "palette": {
+    "background": "#FCFCFF",
+    "accent": "#4980CC",
+    "text": "#262626",
+    "textSecondary": "#575757",
+    "navOverride": "#696969"
+  },
+  "breakpoints": [
+    809.98,
+    1199.98
+  ],
+  "font": "Apfel Grotezk",
+  "container": 1120,
+  "desktop": [
+    1440,
+    1000
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "motionPrecision": {
+    "spring": "Published Motion generator, analytic evaluation; native opacity linear() sampling matches runtime",
+    "ticker": {
+      "power": 0.8,
+      "timeConstant": 750,
+      "restDelta": 1,
+      "restSpeed": 10,
+      "resumeSpeed": 30,
+      "hoverResumeSpeed": 6,
+      "panVelocityWindow": 100,
+      "panDistanceThreshold": 3,
+      "frameDeltaClampMs": [
+        1,
+        40
+      ],
+      "motionValueVelocityMaxAgeMs": 30,
+      "animationTimeRounding": "integer milliseconds"
+    },
+    "sourceMap": "Motion MIT source included in published source map; local license demo/MOTION-LICENSE.md"
+  }
+}

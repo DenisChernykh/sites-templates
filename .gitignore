@@ -1,0 +1,12 @@
+.DS_Store
+output/source-copy-before-design.pen
+
+.playwright-cli/
+node_modules/
+.pnpm-store/
+.env
+.env.local
+.env.production
+.dev.vars
+*.log
+!*.example

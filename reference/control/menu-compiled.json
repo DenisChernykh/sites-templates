@@ -1,0 +1,797 @@
+[
+  {
+    "name": "Mobile Menu",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "box": {
+      "height": 320.8125,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "nodes": [
+      {
+        "key": "Mobile Menu-0",
+        "parent": null,
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mindify / Mobile Menu",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 320.8125,
+          "metadata": {
+            "type": "mindify-source-section",
+            "section": "Mobile Menu"
+          },
+          "layout": "none",
+          "clip": false,
+          "fill": "#fcfcffbf",
+          "effect": [
+            {
+              "type": "background_blur",
+              "radius": 5
+            }
+          ]
+        }
+      },
+      {
+        "key": "Mobile Menu-1",
+        "parent": "Mobile Menu-0",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Wrapper",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 320.8125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-1",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-2",
+        "parent": "Mobile Menu-1",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Content",
+          "x": 16,
+          "y": 16,
+          "width": 358,
+          "height": 22,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-2",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-3",
+        "parent": "Mobile Menu-2",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Logo",
+          "x": 0,
+          "y": -1,
+          "width": 87.5703125,
+          "height": 24,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-3",
+            "tag": "a"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-4",
+        "parent": "Mobile Menu-3",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / svg",
+          "x": 0,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-4",
+            "tag": "svg"
+          },
+          "layout": "none",
+          "clip": true
+        },
+        "paths": [
+          {
+            "type": "path",
+            "name": "svg / исходный контур 1",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 18.004 4.381 L 18.004 3.75 C 18.004 1.679 16.325 0 14.254 0 C 12.183 0 10.504 1.679 10.504 3.75 C 10.504 1.679 8.825 0 6.754 0 C 4.683 0 3.004 1.679 3.004 3.75 L 3.004 4.381 C 1.204 5.015 0 6.716 0 8.625 C 0 10.534 1.204 12.235 3.004 12.869 L 3.004 12.869 L 3.004 13.5 C 3.004 15.571 4.683 17.25 6.754 17.25 C 8.825 17.25 10.504 15.571 10.504 13.5 C 10.504 15.571 12.183 17.25 14.254 17.25 C 16.325 17.25 18.004 15.571 18.004 13.5 L 18.004 12.869 L 18.004 12.869 C 19.804 12.235 21.008 10.534 21.008 8.625 C 21.008 6.716 19.804 5.015 18.004 4.381 Z",
+            "viewBox": [
+              -1.496,
+              -3,
+              24,
+              24
+            ],
+            "fill": "#4980cc29"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 2",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 3.75 0 C 5.821 0 7.5 1.679 7.5 3.75 C 7.5 5.821 5.821 7.5 3.75 7.5 C 1.679 7.5 0 5.821 0 3.75 L 0 3.119",
+            "viewBox": [
+              -4.5,
+              -12.75,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 1.5,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 3",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 3.75 0 C 1.679 0 0 1.679 0 3.75 C 0 5.821 1.679 7.5 3.75 7.5 C 5.821 7.5 7.5 5.821 7.5 3.75 L 7.5 3.119",
+            "viewBox": [
+              -12,
+              -12.75,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 1.5,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 4",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 5.254 13.125 L 4.504 13.125 C 2.311 13.127 0.436 11.547 0.065 9.386 C -0.306 7.224 0.936 5.11 3.004 4.381 L 3.004 3.75 C 3.004 1.679 4.683 0 6.754 0 C 8.826 0 10.504 1.679 10.504 3.75 L 10.504 13.5",
+            "viewBox": [
+              -1.496,
+              -3,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 1.5,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 5",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 5.25 13.125 L 6 13.125 C 8.193 13.127 10.068 11.547 10.439 9.386 C 10.81 7.224 9.568 5.11 7.5 4.381 L 7.5 3.75 C 7.5 1.679 5.821 0 3.75 0 C 1.679 0 0 1.679 0 3.75",
+            "viewBox": [
+              -12,
+              -3,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 1.5,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 6",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 3 3 L 2.625 3 C 1.175 3 0 1.825 0 0.375 L 0 0",
+            "viewBox": [
+              -15.75,
+              -7.5,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 1.5,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 7",
+            "x": 0,
+            "y": 0,
+            "width": 24,
+            "height": 24,
+            "geometry": "M 0 3 L 0.375 3 C 1.825 3 3 1.825 3 0.375 L 3 0",
+            "viewBox": [
+              -5.25,
+              -7.5,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 1.5,
+            "strokeLinecap": "round",
+            "strokeLinejoin": "round"
+          }
+        ]
+      },
+      {
+        "key": "Mobile Menu-5",
+        "parent": "Mobile Menu-3",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / div",
+          "x": 30,
+          "y": 1.1953125,
+          "width": 57.5703125,
+          "height": 21.6015625,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-5",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-6",
+        "parent": "Mobile Menu-5",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Mobile Menu / Mindify",
+          "x": 0,
+          "y": 0,
+          "width": 57.5703125,
+          "height": 21.6015625,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-6",
+            "tag": "p"
+          },
+          "content": "Mindify",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 18,
+          "fontWeight": "500",
+          "lineHeight": 1.2000000000000002,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#262626",
+          "textAlign": "left",
+          "href": "https://mindify.framer.website/"
+        }
+      },
+      {
+        "key": "Mobile Menu-7",
+        "parent": "Mobile Menu-2",
+        "z": 5,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Menu Icon",
+          "x": 334,
+          "y": 0,
+          "width": 24,
+          "height": 22,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-7",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-8",
+        "parent": "Mobile Menu-7",
+        "z": 6,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / div",
+          "x": 4.2218311875,
+          "y": 1.8076114654541016,
+          "width": 24,
+          "height": 2,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-8",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": true,
+          "cornerRadius": [
+            16.6667,
+            16.6667,
+            16.6667,
+            16.6667
+          ],
+          "fill": "#4980cc",
+          "rotation": -45
+        }
+      },
+      {
+        "key": "Mobile Menu-9",
+        "parent": "Mobile Menu-7",
+        "z": 6,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / div",
+          "x": 2.8076171875,
+          "y": 18.7781794654541,
+          "width": 24,
+          "height": 2,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-9",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": true,
+          "cornerRadius": [
+            16.6667,
+            16.6667,
+            16.6667,
+            16.6667
+          ],
+          "fill": "#4980cc",
+          "rotation": 45
+        }
+      },
+      {
+        "key": "Mobile Menu-10",
+        "parent": "Mobile Menu-1",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Navigation",
+          "x": 111.5078125,
+          "y": 70,
+          "width": 166.9765625,
+          "height": 218.8125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-10",
+            "tag": "nav"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-11",
+        "parent": "Mobile Menu-10",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Menu Items",
+          "x": 40.296875,
+          "y": 0,
+          "width": 86.375,
+          "height": 148.8125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-11",
+            "tag": "ul"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-12",
+        "parent": "Mobile Menu-11",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / li",
+          "x": 9.890625,
+          "y": 0,
+          "width": 66.59375,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-12",
+            "tag": "li"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-13",
+        "parent": "Mobile Menu-12",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Mobile Menu / About Me",
+          "x": 0,
+          "y": 0,
+          "width": 66.59375,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-13",
+            "tag": "p"
+          },
+          "content": "About Me",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 16,
+          "fontWeight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#575757",
+          "textAlign": "left",
+          "href": "#about"
+        }
+      },
+      {
+        "key": "Mobile Menu-14",
+        "parent": "Mobile Menu-11",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / li",
+          "x": 13.859375,
+          "y": 43.203125,
+          "width": 58.65625,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-14",
+            "tag": "li"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-15",
+        "parent": "Mobile Menu-14",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Mobile Menu / Services",
+          "x": 0,
+          "y": 0,
+          "width": 58.65625,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-15",
+            "tag": "p"
+          },
+          "content": "Services",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 16,
+          "fontWeight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#575757",
+          "textAlign": "left",
+          "href": "#services"
+        }
+      },
+      {
+        "key": "Mobile Menu-16",
+        "parent": "Mobile Menu-11",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / li",
+          "x": 0,
+          "y": 86.40625,
+          "width": 86.375,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-16",
+            "tag": "li"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-17",
+        "parent": "Mobile Menu-16",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Mobile Menu / How It Works",
+          "x": 0,
+          "y": 0,
+          "width": 86.375,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-17",
+            "tag": "p"
+          },
+          "content": "How It Works",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 16,
+          "fontWeight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#575757",
+          "textAlign": "left",
+          "href": "#how"
+        }
+      },
+      {
+        "key": "Mobile Menu-18",
+        "parent": "Mobile Menu-11",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / li",
+          "x": 0.671875,
+          "y": 129.609375,
+          "width": 85.03125,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-18",
+            "tag": "li"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-19",
+        "parent": "Mobile Menu-18",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Mobile Menu / Testimonials",
+          "x": 0,
+          "y": 0,
+          "width": 85.03125,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-19",
+            "tag": "p"
+          },
+          "content": "Testimonials",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 16,
+          "fontWeight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#575757",
+          "textAlign": "left",
+          "href": "#testimonials"
+        }
+      },
+      {
+        "key": "Mobile Menu-20",
+        "parent": "Mobile Menu-10",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / div",
+          "x": 0,
+          "y": 180.8125,
+          "width": 166.9765625,
+          "height": 38,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-20",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-21",
+        "parent": "Mobile Menu-20",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Primary",
+          "x": 0,
+          "y": 0,
+          "width": 166.9765625,
+          "height": 38,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-21",
+            "tag": "a"
+          },
+          "layout": "none",
+          "clip": false,
+          "cornerRadius": [
+            12,
+            12,
+            12,
+            12
+          ],
+          "fill": "#4980cc"
+        }
+      },
+      {
+        "key": "Mobile Menu-22",
+        "parent": "Mobile Menu-21",
+        "z": 1,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / Icon",
+          "x": 8,
+          "y": 8,
+          "width": 22,
+          "height": 22,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-22",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false,
+          "cornerRadius": [
+            16,
+            16,
+            16,
+            16
+          ],
+          "fill": "#ffffff"
+        }
+      },
+      {
+        "key": "Mobile Menu-23",
+        "parent": "Mobile Menu-22",
+        "z": 0,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / svg",
+          "x": 6,
+          "y": 6,
+          "width": 10,
+          "height": 10,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-23",
+            "tag": "svg"
+          },
+          "layout": "none",
+          "clip": true
+        },
+        "paths": [
+          {
+            "type": "path",
+            "name": "svg / исходный контур 1",
+            "x": 0,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "geometry": "M 10.6 0 L 2.4 0 C 1.075 0 0 1.075 0 2.4 L 0 9.6 C 0 10.925 1.075 12 2.4 12 L 10.6 12 C 11.925 12 13 10.925 13 9.6 L 13 2.4 C 13 1.075 11.925 0 10.6 0",
+            "viewBox": [
+              -1,
+              -6,
+              24,
+              24
+            ],
+            "fill": "#4980cc57"
+          },
+          {
+            "type": "path",
+            "name": "svg / исходный контур 2",
+            "x": 0,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "geometry": "M 10.6 0 L 2.4 0 C 1.075 0 0 1.075 0 2.4 L 0 9.6 C 0 10.925 1.075 12 2.4 12 L 10.6 12 C 11.925 12 13 10.925 13 9.6 L 13 2.4 C 13 1.075 11.925 0 10.6 0 Z M 22 0 L 16 6 L 22 12 Z",
+            "viewBox": [
+              -1,
+              -6,
+              24,
+              24
+            ],
+            "fill": "#00000000",
+            "stroke": "#4980cc",
+            "strokeWidth": 0.8333333333333334,
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "round"
+          }
+        ]
+      },
+      {
+        "key": "Mobile Menu-24",
+        "parent": "Mobile Menu-21",
+        "z": 1,
+        "props": {
+          "type": "frame",
+          "name": "Mobile Menu / div",
+          "x": 42,
+          "y": 9.3984375,
+          "width": 106.9765625,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-24",
+            "tag": "div"
+          },
+          "layout": "none",
+          "clip": false
+        }
+      },
+      {
+        "key": "Mobile Menu-25",
+        "parent": "Mobile Menu-24",
+        "z": 0,
+        "props": {
+          "type": "text",
+          "name": "Mobile Menu / Book A Session",
+          "x": 0,
+          "y": 0,
+          "width": 106.9765625,
+          "height": 19.203125,
+          "metadata": {
+            "type": "mindify-source-layer",
+            "sourceKey": "Mobile Menu-25",
+            "tag": "p"
+          },
+          "content": "Book A Session",
+          "fontFamily": "Apfel Grotezk",
+          "fontSize": 16,
+          "fontWeight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "textGrowth": "fixed-width-height",
+          "fill": "#ffffff",
+          "textAlign": "left",
+          "href": "https://cal.com/"
+        }
+      }
+    ]
+  }
+]
